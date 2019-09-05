@@ -1,0 +1,27 @@
+{
+  "name": "token-manager",
+  "version": "1.0.0",
+  "description": "a webapp to assign tokens in counters",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranesh-sp/SmartQueueBackend.git"
+  },
+  "keywords": [
+    "Token"
+  ],
+  "author": "Pranesh S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranesh-sp/SmartQueueBackend/issues"
+  },
+  "homepage": "https://github.com/pranesh-sp/SmartQueueBackend#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.12",
+    "nodemon": "^1.19.2"
+  }
+}
